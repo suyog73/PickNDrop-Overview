@@ -79,6 +79,7 @@
 
 <p align="center">
 <img src="Screenshots/Receiver_Onboarding.png" height="440">
+<img src="Screenshots/Receiver_Onboarding.png" height="440">
 </p>
 
 
