@@ -25,55 +25,61 @@ PickNDrop is a project intending to create an easy and effective solution for pa
 - Login - Registration Page 
 
 <p align="center">
-<img src="ScreenShots/Onboarding.PNG" height="440">
-<img src="ScreenShots/Signup.PNG" height="440">
-<img src="ScreenShots/Registration.PNG" height="440">
+<img src="Screenshots/Onboarding.jpeg" height="440">
+<img src="Screenshots/Signup.png" height="440">
+<img src="Screenshots/Registration.png" height="440">
 </p>
 
 - User Profile Setup
 <p align="center">
-<img src="ScreenShots/User_Profile.PNG" height="440">
+<img src="Screenshots/User_Profile.png" height="440">
 </p>
 
 ## Home Page 
 - Three separate sections for Sender, Receiver and Service Provider respectively
 <p align="center">
-<img src="ScreenShots/Home.PNG" height="440">
+<img src="Screenshots/Home.png" height="440">
 </p>
 
 ## Sender Section
 - Post, update and delete request for package delivery
 <p align="center">
-<img src="ScreenShots/Sender_onboarding.PNG" height="440">
-<img src="ScreenShots/Delivery_details.PNG" height="440">
-<img src="ScreenShots/Sender_Google_map.PNG" height="440">
-<img src="ScreenShots/places_api.PNG" height="440">
-<img src="ScreenShots/Package_details.PNG" height="440">
+<img src="Screenshots/Sender_onboarding.jpeg" height="440">
+<img src="Screenshots/Delivery_details.png" height="440">
+<img src="Screenshots/Google_map.png" height="440">
+<img src="Screenshots/places_api.png" height="440">
+<img src="Screenshots/Package_details.png" height="440">
 </p>
 
 - Select Receiver
 <p align="center">
-<img src="ScreenShots/Select_Receiver.PNG" height="440">
+<img src="Screenshots/Select_Receiver.png" height="440">
 </p>
 
 - Payment options after allocation of feasible Service Provider
 <p align="center">
-<img src="ScreenShots/Sender_Payment_Proceed.PNG" height="440">
-<img src="ScreenShots/Sender_Razorpay.PNG" height="440">
+<img src="Screenshots/Sender_Payment_Proceed.png" height="440">
+<img src="Screenshots/Sender_Razorpay.png" height="440">
 </p>
 
 ## Service Provider Section
 - Plan a trip
 <p align="center">
-<img src="ScreenShots/ServiceProvider_Onboarding.PNG" height="440">
-<img src="ScreenShots/Setup_Trip.PNG" height="440">
+<img src="Screenshots/ServiceProvider_Onboarding.png" height="440">
+<img src="Screenshots/Setup_Trip.jpeg" height="440">
 </p>
 
 - Checkout details for current order assigned to Service Provider
 <p align="center">
-<img src="ScreenShots/Service_provider_status.PNG" height="440">
+<img src="Screenshots/Service_provider_status.png" height="440">
 </p>
 
 
+## Receiver Section
+- Checkout Package Details
+
+<p align="center">
+<img src="Screenshots/Receiver_Onboarding.png" height="440">
+</p>
 
 
